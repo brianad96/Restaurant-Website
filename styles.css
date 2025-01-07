@@ -1,1 +1,12 @@
-
+#img1{
+    width: 20%;
+    position: absolute;
+    right: 20px;
+    top: 200px;
+}
+  #img2 {
+    width:100px;
+    position: absolute;
+    right: 500px;
+    top:100px;
+  }
