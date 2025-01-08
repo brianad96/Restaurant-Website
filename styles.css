@@ -1,10 +1,11 @@
-#img1{
+#chocolate{
     width: 20%;
     position: absolute;
     right: 20px;
     top: 200px;
+    z-index:1;
 }
-  #img2 {
+  #Cheese{
     width:100px;
     position: absolute;
     right: 500px;
